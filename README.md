@@ -1,1 +1,1 @@
-# Regime-Detection-in-FinancialMarkets
+# Regime Detection in Financial Markets
