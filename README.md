@@ -1,1 +1,1 @@
-# Regime Detection in Financial Markets, A Network Science Perspective
+# Dynamics of Financial Correlation Networks: From Stocks to Sectors
